@@ -3,7 +3,7 @@
 <h3>Contents</h3>
 <ul>
   <li><b>UIVideo.mov</b> (An up-close video of just the UI)
-  <li>A video about AlpacaML and the new additions
+  <li>A video about AlpacaML and the new additions (https://www.youtube.com/watch?v=lyDLVPfqdcM)
   <li><b>ClassificationViewController.swift</b> (Updated Swift File. Link at original repository: https://github.com/AbbieRose/AlpacaML/blob/master/LPC%20Wearable%20Toolkit/Controllers/ClassificationViewController.swift)
   <li>PDF of report
 </ul>
@@ -12,7 +12,7 @@
 <p>You will not be able to run the code without an iPhone, an Apple ID and a BBC Micro:Bit. If you have all these things and want to actually run the app, you can reach out to me and I can get you set up ASAP. I suspect you probably don't have all these things, so I created 2 videos to demonstrate use of AlpacaML:
   <ol>
     <li> The first video is just the UI. I trained a model of my my hand moving the micro:bit right, left, up and down. It worked pretty well, except sometimes my right and left motions were classified as both because of overcorrection movement. You can see and hear the app classify my movements, and the accompanying example. You can't actually see my movemets. </li>
-    <li> To actually showcase how the app works, I took a video of me using it to identify boxing movements- Jab and Upper Cut. As you can see in the video, the motions are similar enough that the model works fine, but not great. The visualization I added adds extra information as to why this might be. </li>
+    <li> To actually showcase how the app works, I took a video of me using it to identify boxing movements- Jab and Upper Cut. As you can see in the video, the motions are similar enough that the model works fine, but not great. The visualization I added adds extra information as to why this might be. It is included as a youtube link above because it was too large to put on github. </li>
   </ol>
   
   <h4>Code</h4>
